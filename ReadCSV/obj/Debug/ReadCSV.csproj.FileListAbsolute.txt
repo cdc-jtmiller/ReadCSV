@@ -1,0 +1,11 @@
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe.config
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csprojResolveAssemblyReference.cache
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.Properties.Resources.resources
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.GenerateResource.Cache
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\bin\Debug\ReadCSV.pdb
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\bin\Debug\NReco.Csv.dll
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\bin\Debug\NReco.Csv.xml
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.exe
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.pdb
+C:\Work\VS_projects\Temp\ReadCSV\ReadCSV\obj\Debug\ReadCSV.ReadCSV.resources
